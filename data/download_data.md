@@ -1,7 +1,6 @@
 ### Input Features
 
-Please download the data from the following Google Drive folder:  
-[Split Features - Google Drive](https://drive.google.com/drive/folders/1WUchXzu9LqZANrUo3jxEjGur8r-_qXTb?usp=sharing)
+The data is temporarily unavailable and will be made available soon.
 
 Please place the files in this directory after downloading them.
 
